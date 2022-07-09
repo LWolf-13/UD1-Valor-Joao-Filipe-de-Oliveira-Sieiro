@@ -1,0 +1,15 @@
+C:\Users\josie\Downloads\Joao Filipe de Oliveira Sieiro\Curso\UD1 - Valor\UD1 - Valor\bin\Debug\net6.0\UD1 - Valor.exe
+C:\Users\josie\Downloads\Joao Filipe de Oliveira Sieiro\Curso\UD1 - Valor\UD1 - Valor\bin\Debug\net6.0\UD1 - Valor.deps.json
+C:\Users\josie\Downloads\Joao Filipe de Oliveira Sieiro\Curso\UD1 - Valor\UD1 - Valor\bin\Debug\net6.0\UD1 - Valor.runtimeconfig.json
+C:\Users\josie\Downloads\Joao Filipe de Oliveira Sieiro\Curso\UD1 - Valor\UD1 - Valor\bin\Debug\net6.0\UD1 - Valor.dll
+C:\Users\josie\Downloads\Joao Filipe de Oliveira Sieiro\Curso\UD1 - Valor\UD1 - Valor\bin\Debug\net6.0\UD1 - Valor.pdb
+C:\Users\josie\Downloads\Joao Filipe de Oliveira Sieiro\Curso\UD1 - Valor\UD1 - Valor\obj\Debug\net6.0\UD1 - Valor.csproj.AssemblyReference.cache
+C:\Users\josie\Downloads\Joao Filipe de Oliveira Sieiro\Curso\UD1 - Valor\UD1 - Valor\obj\Debug\net6.0\UD1 - Valor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josie\Downloads\Joao Filipe de Oliveira Sieiro\Curso\UD1 - Valor\UD1 - Valor\obj\Debug\net6.0\UD1 - Valor.AssemblyInfoInputs.cache
+C:\Users\josie\Downloads\Joao Filipe de Oliveira Sieiro\Curso\UD1 - Valor\UD1 - Valor\obj\Debug\net6.0\UD1 - Valor.AssemblyInfo.cs
+C:\Users\josie\Downloads\Joao Filipe de Oliveira Sieiro\Curso\UD1 - Valor\UD1 - Valor\obj\Debug\net6.0\UD1 - Valor.csproj.CoreCompileInputs.cache
+C:\Users\josie\Downloads\Joao Filipe de Oliveira Sieiro\Curso\UD1 - Valor\UD1 - Valor\obj\Debug\net6.0\UD1 - Valor.dll
+C:\Users\josie\Downloads\Joao Filipe de Oliveira Sieiro\Curso\UD1 - Valor\UD1 - Valor\obj\Debug\net6.0\refint\UD1 - Valor.dll
+C:\Users\josie\Downloads\Joao Filipe de Oliveira Sieiro\Curso\UD1 - Valor\UD1 - Valor\obj\Debug\net6.0\UD1 - Valor.pdb
+C:\Users\josie\Downloads\Joao Filipe de Oliveira Sieiro\Curso\UD1 - Valor\UD1 - Valor\obj\Debug\net6.0\UD1 - Valor.genruntimeconfig.cache
+C:\Users\josie\Downloads\Joao Filipe de Oliveira Sieiro\Curso\UD1 - Valor\UD1 - Valor\obj\Debug\net6.0\ref\UD1 - Valor.dll
